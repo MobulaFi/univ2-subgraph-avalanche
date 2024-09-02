@@ -1,8 +1,8 @@
 {
-	"zklink": {
+	"avalanche": {
 		"Factory": {
-			"address": "0x87929083ac2215cF3CE4936857D314aF6687C978",
-			"startBlock": 79192
+			"address": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
+			"startBlock": 56877
 		}
 	}
 }
